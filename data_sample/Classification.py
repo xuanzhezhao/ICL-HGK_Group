@@ -163,7 +163,9 @@ def plot_confusion_matrix(confusion_mat):
     plt.show()
 plot_confusion_matrix(confusion_m)
 
-#import scikitplot as skplt
+import scikitplot as skplt
+plot = skplt.metrics.plot_confusion_matrix(y_test, result, normalize=True)
+plt.show()
 #skplt.metrics.plot_roc(y_test, result)
 #plt.show()
 
