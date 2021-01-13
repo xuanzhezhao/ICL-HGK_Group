@@ -1,4 +1,4 @@
-If your collect the IMU data using the same code that we provide in this project, please keep and save all of 
+If you collect the IMU data using the same code that we provide in this project, please keep and save all of 
 your data with the same form of 60_data file. 
 
 Then run(For each sub dataset, you need to change the path of each sub-dataset every time you run this code.)
