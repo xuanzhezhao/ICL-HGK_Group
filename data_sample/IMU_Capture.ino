@@ -77,8 +77,9 @@ void loop() {
       Serial.print(gY, 3);
       Serial.print(',');
       Serial.print(gZ, 3);
+      Serial.print(',');
       //Serial.println("END");
-      Serial.println();
+      //Serial.println();
       delay(16);
       if (samplesRead == numSamples) {
         // add an empty line if it's the last sample
