@@ -1,1 +1,7 @@
 when sum < threshold, add 0 
+
+threshold.py is used to process the data from a-z, save x_train and labels into save_letter.pickel.
+
+cls.py is used to make classification, save the model in letter26.pickel.
+
+test.py is used for real-time test.
