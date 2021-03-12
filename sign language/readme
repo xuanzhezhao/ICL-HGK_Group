@@ -1,3 +1,4 @@
 sign language
 
 0225 update  training :sign_c.py    testing: sign_t.py   dataset:sign_j.zip  实时测试成功识别19个字母，另外有d，k，r成功率较低，许多次测试，剩下还有4个字母太相似，没有进行采集。 
+0312 update  sing_small_size.zip 小数据集 
